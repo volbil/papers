@@ -1,7 +1,7 @@
 # Bunch of thoughts about different stuffs
 
-Papers: 
+Papers:  
 [Equilibre - consensus security layer](equilibre.md)
 
-Translations:
+Translations:  
 [Ерік Хьюз - Маніфест шифропанків](translations/manifesto.md)
