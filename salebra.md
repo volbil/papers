@@ -1,2 +1,0 @@
-# Salebra - entropy based blockchain
-
